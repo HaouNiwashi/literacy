@@ -1,0 +1,3 @@
+table {border-collapse: collapse;}
+tr,td,th {border: 5px; border-color: red; border-style: dashed;}
+th {background-color: orange;}
